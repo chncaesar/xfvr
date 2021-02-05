@@ -17,8 +17,8 @@ import java.util.concurrent.TimeUnit;
  * @author : hejie
  */
 public class LfasrSDKDemo {
-    private static final String APP_ID = "your app_id";
-    private static final String SECRET_KEY = "your secret_key";
+    private static final String APP_ID = "601c04c7";
+    private static final String SECRET_KEY = "52e8343bda8cacb12eb1c4569fa7b8f0";
 
 
     //音频文件路径
